@@ -54,10 +54,3 @@
 ```
     python tools/test.py
 ```
-
-
-### Remove small particle
-- 작성 예정
-
-
-
