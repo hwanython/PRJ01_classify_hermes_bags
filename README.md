@@ -22,9 +22,9 @@
   ├─ configs		: 학습 관련된 구성 요소 e.g. 하이퍼파라미터, 데이터 경로, 클래스
   ├─ datasets		: dataset과 관련된 code들, e.g., dataloader 정의
   ├─ experiements	: 학습 모델(.pth)이 저장된 폴더
-  ├─ libs				: network와 관련된 code들 network building
-  ├─ tools				: Training 및 Test loop가 정의된 코드
-  └─ utils				: 그 외 유틸들 e.g.,
+  ├─ libs		: network와 관련된 code들 network building
+  ├─ tools		: Training 및 Test loop가 정의된 코드
+  └─ utils		: 그 외 유틸들 e.g.,
 ```
 
 ## 사용법
